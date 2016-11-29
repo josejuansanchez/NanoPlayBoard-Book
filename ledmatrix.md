@@ -26,5 +26,16 @@ void loop() {
 
 The `setScrollSpeed` method allows you to control the scroll speed that is used to display the text on the LED dot matrix.
 
+```c++
+#include <NanoPlayBoard.h>
 
+NanoPlayBoard board;
 
+void setup() {
+  board.ledmatrix.setScrollSpeed(10);
+}
+
+void loop() {
+  board.ledmatrix.print("H o l a  m u n d o!");
+}
+```
