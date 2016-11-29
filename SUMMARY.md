@@ -1,6 +1,6 @@
 # Summary
 
-* Board
+* [Board](board/index.md)
   * [Description](board/description.md)
   * [Pinout](board/pinout.md)
 * [Sensors](sensors/index.md)
