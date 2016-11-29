@@ -1,4 +1,4 @@
-# NanoPlayBoard-Book
+# NanoPlayBoard
 
 Aprende electrónica básica y programación de hardware con NanoPlayBoard.
 
