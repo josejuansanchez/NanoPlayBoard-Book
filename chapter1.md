@@ -30,7 +30,7 @@ How to send potentiometer values through *Bluetooth*.
 NanoPlayBoard board;
 
 void setup() {
-  Serial.begin(9600);
+
 }
 
 void loop() {
