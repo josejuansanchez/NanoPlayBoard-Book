@@ -1,5 +1,8 @@
 # Summary
 
+* Board
+  * [Description](board/description.md)
+  * [Pinout](board/pinout.md)
 * [Sensors](sensors/index.md)
   * [Potentiometer](sensors/potentiometer.md)
   * [LDR](sensors/ldr.md)
