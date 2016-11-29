@@ -1,4 +1,4 @@
-# El potenciómetro
+# Potentiometer
 
 ## `read`
 
