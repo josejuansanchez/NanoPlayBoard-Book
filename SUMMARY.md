@@ -1,6 +1,6 @@
 # Summary
 
-* [Introducción](README.md)
+* [Introducción](introduction(README.md)
 * [Board](board/index.md)
   * [Description](board/description.md)
   * [Pinout](board/pinout.md)
