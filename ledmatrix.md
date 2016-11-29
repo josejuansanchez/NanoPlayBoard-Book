@@ -8,8 +8,6 @@ How to display a scrolling text message on the LED matrix.
 
 This example shows how to display a scrolling text message on the LED dot matrix.
 
-
-
 ```c++
 #include <NanoPlayBoard.h>
 
