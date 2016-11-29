@@ -1,7 +1,9 @@
 # Summary
 
-* [Potentiometer](potentiometer.md)
-* [LDR](ldr.md)
-* [Buzzer](buzzer.md)
-* [RGB Led](rgb_led.md)
-* [Led Matrix](ledmatrix.md)
+* [Sensors](sensors/index.md)
+  * [Potentiometer](potentiometer.md)
+  * [LDR](ldr.md)
+* [Actuators](actuators/index.md)
+  * [Buzzer](buzzer.md)
+  * [RGB Led](rgb_led.md)
+  * [Led Matrix](ledmatrix.md)
