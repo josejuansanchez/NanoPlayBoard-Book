@@ -1,7 +1,7 @@
 # Summary
 
 * [Sensors](sensors/index.md)
-  * [Potentiometer](potentiometer.md)
+  * [Potentiometer](sensors/potentiometer.md)
   * [LDR](ldr.md)
 * [Actuators](actuators/index.md)
   * [Buzzer](buzzer.md)
