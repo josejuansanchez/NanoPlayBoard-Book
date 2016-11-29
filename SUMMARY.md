@@ -2,8 +2,8 @@
 
 * [Portada](README.md)
 * [Introducción](introduction/README.md)
-* [Board](board/index.md)
-   * [Description](board/description.md)
+* [La placa](board/index.md)
+   * [Elementos](board/description.md)
    * [Pinout](board/pinout.md)
 * [Sensors](sensors/index.md)
    * [Potentiometer](sensors/potentiometer.md)
