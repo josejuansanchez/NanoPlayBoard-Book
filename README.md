@@ -2,7 +2,7 @@
 
 Aprende electrónica básica y programación de hardware con NanoPlayBoard.
 
-![](nanoplayboard.jpg)
+![](images/nanoplayboard.jpg)
 
 Imagen de portada: [@pighixxx](https://twitter.com/pighixxx).
 
