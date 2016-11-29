@@ -10,8 +10,15 @@
 * [Sensors](sensors/index.md)
    * [Potentiometer](sensors/potentiometer.md)
    * [LDR](sensors/ldr.md)
+   * Buttons
+   * Accelerometer
+   * Encoder
 * [Actuators](actuators/index.md)
    * [Buzzer](actuators/buzzer.md)
    * [RGB Led](actuators/rgb_led.md)
    * [Led Matrix](actuators/ledmatrix.md)
-
+* Ports
+  * Sensor de ultrasonidos
+  * Sensor de temperatura DTH11/DTH22
+  * Servomotores
+  * Bluetooth HC-05/HC-06
