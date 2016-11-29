@@ -24,3 +24,7 @@ void loop() {
 
 ### Example 2
 
+The `setScrollSpeed` method allows you to control the scroll speed that is used to display the text on the LED dot matrix.
+
+
+
