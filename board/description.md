@@ -1,4 +1,4 @@
-# Description
+# Descripción
 
 ## Sensores
 
