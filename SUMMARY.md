@@ -3,6 +3,7 @@
 * [Portada](README.md)
 * [Introducción](introduction/README.md)
 * [Características de la placa](board/index.md)
+   * [Imágenes](board/images.md)
    * [Componentes](board/description.md)
    * [Lista de materiales](board/materials.md)
    * [Pinout](board/pinout.md)
