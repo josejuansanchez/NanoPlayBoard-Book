@@ -2,6 +2,8 @@
 
 * [Portada](README.md)
 * [Introducción](introduction/README.md)
+  * [Origen de NanoPlayBoard](introduction/origin.md)
+  * [Objetivo de NanoPlayBoard](introduction/goal.md)
 * [Características de la placa](board/index.md)
    * [Imágenes](board/images.md)
    * [Componentes](board/components.md)
@@ -22,3 +24,4 @@
   * Sensor de temperatura DTH11/DTH22
   * Servomotores
   * Bluetooth HC-05/HC-06
+* Créditos
