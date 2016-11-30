@@ -1,3 +1,3 @@
-# Origen del proyecto
+# Origen de NanoPlayBoard
 
 TODO
