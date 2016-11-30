@@ -1,3 +1,3 @@
-# Objetivo del proyecto
+# Objetivo de NanoPlayBoard
 
 TODO
