@@ -9,6 +9,7 @@
    * [Componentes](board/components.md)
    * [Lista de materiales](board/materials.md)
    * [Pinout](board/pinout.md)
+* Librería NanoPlayBoard para Arduino
 * [Sensors](sensors/README.md)
    * [Potentiometer](sensors/potentiometer.md)
    * [LDR](sensors/ldr.md)
