@@ -4,7 +4,7 @@
 * [Introducción](introduction/README.md)
    * [Origen de NanoPlayBoard](introduction/origin.md)
    * [Objetivo de NanoPlayBoard](introduction/goal.md)
-* [Características de la placa](board/README.md)
+* [Características hardware de la placa](board/README.md)
    * Open Source Hardware
    * [Imágenes](board/images.md)
    * [Componentes](board/components.md)
