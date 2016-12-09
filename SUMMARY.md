@@ -11,21 +11,21 @@
    * [Lista de materiales](board/materials.md)
    * [Pinout](board/pinout.md)
 * Librería NanoPlayBoard para Arduino
-* [Sensors](sensors/README.md)
-   * [Potentiometer](sensors/potentiometer.md)
-   * [LDR](sensors/ldr.md)
-   * Buttons
-   * Accelerometer
-   * Encoder
-* [Actuators](actuators/README.md)
-   * [Buzzer](actuators/buzzer.md)
-   * [RGB Led](actuators/rgb_led.md)
-   * [Led Matrix](actuators/ledmatrix.md)
-* [Ports](ports/README.md)
-   * Sensor de ultrasonidos
-   * Sensor de temperatura DTH11/DTH22
-   * Servomotores
-   * Bluetooth HC-05/HC-06
+   * [Sensors](sensors/README.md)
+     * [Potentiometer](sensors/potentiometer.md)
+     * [LDR](sensors/ldr.md)
+     * Buttons
+     * Accelerometer
+     * Encoder
+   * [Actuators](actuators/README.md)
+     * [Buzzer](actuators/buzzer.md)
+     * [RGB Led](actuators/rgb_led.md)
+     * [Led Matrix](actuators/ledmatrix.md)
+   * [Ports](ports/README.md)
+     * Sensor de ultrasonidos
+     * Sensor de temperatura DTH11/DTH22
+     * Servomotores
+     * Bluetooth HC-05/HC-06
 * [Proyectos](projects/README.md)
    * Proyecto 1
    * Proyecto n
